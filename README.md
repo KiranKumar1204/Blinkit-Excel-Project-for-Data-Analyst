@@ -8,10 +8,15 @@ This project involved data cleaning, transformation, and visualization using adv
 🔧 Tools & Techniques Used:
 
 Microsoft Excel
+
 Pivot Tables & Pivot Charts
+
 Power Query (Data Cleaning & Transformation)
+
 KPI Cards & Dynamic Charts
+
 Slicers & Filters (Outlet Size, Location, Item Type)
+
 Conditional Formatting
 
 #Excel #DataAnalytics #BlinkitAnalysis #DashboardDesign #DataVisualization #BusinessIntelligence #SalesAnalysis #ExcelDashboard
